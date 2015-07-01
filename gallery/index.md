@@ -5,6 +5,6 @@ excerpt: "photos"
 search_omit: true
 ---
 
-<ul>
+<ul align="center">
 This page is still under construction, please check back later.
 </ul>                             
