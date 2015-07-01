@@ -5,4 +5,6 @@ excerpt: "photos"
 search_omit: true
 ---
 
-This is page is still under construction, please check back later.
+<ul>
+This page is still under construction, please check back later.
+</ul>                             
