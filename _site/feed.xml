@@ -2,34 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Yingtao Xu's Space</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://momokoxu.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://momokoxu.github.io" />
-<updated>2015-07-01T10:48:26+08:00</updated>
-<id>http://momokoxu.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-04-05T21:44:12-07:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>YingtaoXu</name>
-  <uri>http://momokoxu.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>yingtao.xu0808@gmail.com</email>
 </author>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://momokoxu.github.io/blog/hello-world/" />
-  <id>http://momokoxu.github.io/blog/hello-world</id>
-  <published>2015-06-16T10:07:00+08:00</published>
-  <updated>2015-06-16T10:07:00+08:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/hello-world/" />
+  <id>http://localhost:4000/blog/hello-world</id>
+  <published>2015-06-15T19:07:00-07:00</published>
+  <updated>2015-06-15T19:07:00-07:00</updated>
   <author>
     <name>YingtaoXu</name>
-    <uri>http://momokoxu.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>yingtao.xu0808@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;This is my very first post.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://momokoxu.github.io/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by YingtaoXu at &lt;a href=&quot;http://momokoxu.github.io&quot;&gt;Yingtao Xu's Space&lt;/a&gt; on June 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by YingtaoXu at &lt;a href=&quot;http://localhost:4000&quot;&gt;Yingtao Xu's Space&lt;/a&gt; on June 15, 2015.&lt;/p&gt;
   </content>
 </entry>
 
